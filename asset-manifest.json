@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/aws-deploy/static/js/main.da5add68.js",
+    "index.html": "/aws-deploy/index.html",
+    "main.da5add68.js.map": "/aws-deploy/static/js/main.da5add68.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.da5add68.js"
+  ]
+}
